@@ -5,3 +5,8 @@ pydantic>=2.9.0
 pymongo==4.6.0
 requests==2.31.0
 email-validator==2.1.0
+cryptography==41.0.7
+pdfminer.six==20221105
+python-multipart==0.0.6
+PyJWT==2.8.0
+reportlab==4.0.7
